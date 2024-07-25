@@ -23,7 +23,7 @@
 
 Apaixonado por Tecnologia e suas áreas de ensino!
 
-## Últimos Repositório:
+## Últimos Repositórios:
 
 </br>
 
