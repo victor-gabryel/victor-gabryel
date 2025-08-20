@@ -27,6 +27,8 @@ Apaixonado por Tecnologia e suas áreas de ensino!
 
 </br>
 
+- [Projeto-GuiaEstudo](https://victor-gabryel.github.io/projeto-guiaestudo/)</br>
 - [Projeto-Cordel](https://victor-gabryel.github.io/projeto-cordel/)</br>
 - [Projeto-EducaçãoFisica](https://victor-gabryel.github.io/projeto-educacaofisica/)</br>
 - [Projeto-Android](https://victor-gabryel.github.io/projeto-android/)</br>
+  
