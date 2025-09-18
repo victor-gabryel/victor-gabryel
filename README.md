@@ -15,8 +15,15 @@
 ---
 
 ## 📊 Estatísticas do GitHub:
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-gabryel&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-gabryel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor-gabryel&theme=radical)](https://github.com/victor-gabryel)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victor-gabryel&theme=radical)](https://github.com/victor-gabryel)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victor-gabryel&theme=radical)](https://github.com/victor-gabryel)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victor-gabryel&theme=radical)](https://github.com/victor-gabryel)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victor-gabryel&theme=radical&utcOffset=3)](https://github.com/victor-gabryel)
+
 
 ---
 
