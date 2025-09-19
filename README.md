@@ -47,10 +47,11 @@
 ---
 
 ## 📂 Últimos Projetos:
-- 🎯 <a href="https://victor-gabryel.github.io/projeto-guiaestudo/" target="_blank" rel="noopener noreferrer">Projeto Guia de Estudo</a>
-- 📜 <a href="https://victor-gabryel.github.io/projeto-cordel/" target="_blank" rel="noopener noreferrer">Projeto Cordel</a>
-- 🏋️ <a href="https://victor-gabryel.github.io/projeto-educacaofisica/" target="_blank" rel="noopener noreferrer">Projeto Educação Física</a>
-- 🤖 <a href="https://victor-gabryel.github.io/projeto-android/" target="_blank" rel="noopener noreferrer">Projeto Android</a>
+- 🎯 [Projeto Guia de Estudo](https://victor-gabryel.github.io/projeto-guiaestudo/)  
+- 📜 [Projeto Cordel](https://victor-gabryel.github.io/projeto-cordel/)  
+- 🏋️ [Projeto Educação Física](https://victor-gabryel.github.io/projeto-educacaofisica/)  
+- 🤖 [Projeto Android](https://victor-gabryel.github.io/projeto-android/)  
+- 💻 [Projeto Monitoria](https://victor-gabryel.github.io/projeto-monitoria/)
 
 
 ---
