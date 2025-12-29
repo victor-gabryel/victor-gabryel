@@ -54,7 +54,6 @@
 - 💻 <a href="https://victor-gabryel.github.io/projeto-monitoria/" target="_blank">Projeto Monitoria</a>
 - 🛡️ <a href="https://victor-gabryel.github.io/projeto-safevoice/" target="_blank">Projeto SafeVoice</a>
 
-
 ---
 
 ## 🚀 Um pouco sobre mim:
