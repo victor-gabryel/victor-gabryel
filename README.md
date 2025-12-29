@@ -52,6 +52,7 @@
 - 🏋️ [Projeto Educação Física](https://victor-gabryel.github.io/projeto-educacaofisica/)  
 - 🤖 [Projeto Android](https://victor-gabryel.github.io/projeto-android/)  
 - 💻 [Projeto Monitoria](https://victor-gabryel.github.io/projeto-monitoria/)
+- 🛡️ [Projeto SafeVoice](https://victor-gabryel.github.io/projeto-safevoice/)
 
 
 ---
