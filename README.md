@@ -48,7 +48,7 @@
 
 ## 📂 Últimos Projetos:
 - 🎯 <a href="https://victor-gabryel.github.io/projeto-guiaestudo/" target="_blank">Projeto Guia de Estudo</a>
-- 📜 <a href="https://victor-gabryel.github.io/projeto-cordel/" target="_blank">Projeto Cordel</a>>
+- 📜 <a href="https://victor-gabryel.github.io/projeto-cordel/" target="_blank">Projeto Cordel</a>
 - 🛡️ <a href="https://victor-gabryel.github.io/projeto-safevoice/" target="_blank">Projeto SafeVoice</a>
 
 ---
